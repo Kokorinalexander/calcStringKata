@@ -1,0 +1,18 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÓÎÒœ8‡ÏÓâŸ2
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(›¼¾²ûÿÿÿÿ8‡ÏÓâŸ2
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ôÿüÿÿÿÿ8ˆÏÓâŸ2
+g	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(¦–ºüÿÿÿÿ8ˆÏÓâŸ2
+g	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(½ê›¥úÿÿÿÿ8ˆÏÓâŸ2
+b	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(™Ê’–8ˆÏÓâŸ2
+Q
+java:S1066"/Merge this if statement with the enclosing one.(›¼¾²ûÿÿÿÿ8‹ÏÓâŸ2
+>
+java:S1643"Use a StringBuilder instead.(¼¥µ¶ıÿÿÿÿ8ŒÏÓâŸ2
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ8ÌÏÓâŸ2
+L
+java:S6035	"0Replace this alternation with a character class.(ëÚ„J8ÒÏÓâŸ2
+–
+java:S1130J"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(°ØºÎ8ãÏÓâŸ2
+G	java:S106N"+Replace this use of System.out by a logger.(’¨¸ç8åÏÓâŸ2
