@@ -24,7 +24,7 @@ public class Main {
             printInQuotes(data[0] + data[1]);
         } else if(action == '*') {
             int multiplier = Integer.parseInt(data[1]);
-            if (multiplier <= 0 || multiplier > 10) throw new Exception ("Неверное выражение");
+            if (multiplier <= 0 || multiplier > 10) throw new Exception ("Числа должны быть от 1 до 10");
             String result = "";
             for(int i = 0; i < multiplier; i++) {
                 result += data[0];
@@ -40,7 +40,7 @@ public class Main {
                 printInQuotes(result);
             }
         } else {
-            if (Integer.parseInt(data[1]) <= 0 || Integer.parseInt(data[1]) > 10) throw new Exception ("no");
+            if (Integer.parseInt(data[1]) <= 0 || Integer.parseInt(data[1]) > 10) throw new Exception ("Числа должны быть от 1 до 10");
             int newLen = data[0].length()/Integer.parseInt(data[1]);
             String result = data[0].substring(0, newLen);
             printInQuotes(result);
